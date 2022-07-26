@@ -11,6 +11,6 @@ Destroy Gui
 # Script
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DarksGitHub/FunkyFridayProjectB/main/Main.lua"))()
 # Library
-https://github.com/shlexware/Orion/main/source
+https://github.com/shlexware/Orion/blob/main/source
 # Obfuscator
 Obfuscator V2#6149 ~ MoonSec V2
